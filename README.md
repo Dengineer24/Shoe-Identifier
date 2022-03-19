@@ -7,3 +7,9 @@ This app is meant for the sneaker enthusiasts and community.
 
 
 *** I will add the Python Machine learning code, which is a jupitor notebook, once that part is completed. ***
+
+
+## What I learned 
+
+- I learned about Machine Learning and python using tensorflow
+- Learned about how object detection is done using Python
